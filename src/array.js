@@ -125,3 +125,5 @@ function flatten(values) {
 
     return results;
 }
+
+export { uniqueArray, flatten };
